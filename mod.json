@@ -1,0 +1,16 @@
+
+{
+    "_QPVersion": "0.1.1",
+    "name": "A mod that tells PinkCore that ME/NE is installed",
+    "id": "amodthattellspinkcorethatmeneisinstalled",
+    "author": "emilia#4338",
+    "version": "0.1.0",
+    "packageId": "com.beatgames.beatsaber",
+    "packageVersion": "1.17.1",
+    "description": "this is not noodle, quest kids.",
+    "modFiles": [
+        "libamodthattellspinkcorethatmeneisinstalled.so"
+    ],
+    "libraryFiles": [
+    ]
+}
