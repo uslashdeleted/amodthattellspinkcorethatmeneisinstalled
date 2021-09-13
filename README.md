@@ -1,6 +1,7 @@
 # A mod that tells PinkCore that ME/NE is installed
 
 read the title.
+note to quest kids: this does not contain noodle
 
 ## Credits
 
