@@ -1,6 +1,6 @@
-# #{name}
+# A mod that tells PinkCore that ME/NE is installed
 
-#{description}
+read the title.
 
 ## Credits
 
